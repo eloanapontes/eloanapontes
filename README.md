@@ -5,7 +5,7 @@
 
 - 👩🏽‍💻 Já possuo conhecimento em **Python, Java, HTML, CSS**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/eloanapontes](https://github.com/eloanapontes)
+- 🖥️ Todos os meus projetos estão disponíveis em [https://github.com/eloanapontes](https://github.com/eloanapontes)
 
 - 📫 Contato **eloana.pontes@gmail.com**
 
