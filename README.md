@@ -1,9 +1,9 @@
 <h1 align="center">Hello there! Sou a Eloana Pontes 🖐️</h1>
-<h3 align="center">Sou Técnico em Informática pelo IFPR e atualmente estou cursando Análise e Desenvolvimento de Sistemas e também Design Gráfico.</h3>
+<h3 align="center">Sou Técnico em Informática pelo IFPR e atualmente estou cursando Análise e Desenvolvimento de Sistemas.</h3>
 
-- 🌱 Atualmente estou aprendendo **JavaScript, PHP, MySQL e Java**
+- 🌱 Atualmente estou aprendendo **NodeJS, TypeScript, JavaScript**
 
-- 👩🏽‍💻 Já possuo conhecimento em **Python, Java, HTML, CSS**
+- 👩🏽‍💻 Já possuo conhecimento em **Python, Java, MySQL, PHP, CSS**
 
 - 🖥️ Todos os meus projetos estão disponíveis em [https://github.com/eloanapontes](https://github.com/eloanapontes)
 
