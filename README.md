@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! Sou a Eloana Pontes 🖐️</h1>
-<h3 align="center">Sou Técnico em Informática pelo IFPR e atualmente estou cursando Análise e Desenvolvimento de Sistemas.</h3>
+<h2 align="center">Sou formada em Técnico em Informática pelo IFPR e atualmente curso Análise e Desenvolvimento de Sistemas.</h2>
 
 - 🌱 Atualmente estou aprendendo **NodeJS, TypeScript, JavaScript**
 
